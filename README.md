@@ -2,7 +2,7 @@
 
 Meu nome é Carlos Eduardo
 
-- Estou estudadndo na Alura
+- Estou estudadndo na Alura 
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
